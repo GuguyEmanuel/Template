@@ -1,0 +1,233 @@
+.nome h1{ 
+
+	font-size : 20px;
+	font-family: Lobster;
+	margin-left: 15px;
+	color: black;
+	position: absolute;
+	top: -2px;
+
+
+}
+.image{
+	width: 100%;
+}
+
+.image img{
+	
+	width: 1354px;
+	height:420px;
+	position: absolute;
+	top: -5px;
+	left: -5px;
+	right: 5px;
+
+}
+
+.menu{
+	width: 100%;
+	height: 50px;
+	background-color: #292d44;
+	top: 365px;
+	left: 0px;
+	position: absolute;
+}
+
+
+
+.menu h1{
+	width: 145px;
+	border-radius: 5px;
+	padding-left: 10px;
+	padding-bottom: 3px;
+}
+
+.opcoes nav ul li{
+	display:inline-block;
+	text-decoration: none;
+	
+}
+
+.opcoes a{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 17px;
+    font-family: 'Fjalla One', sans-serif;
+    right: 0px;
+    margin-left: 35px;
+}
+.menu nav{
+    position: absolute;
+    left: 365px;
+    top: -2px;
+}
+
+.opcoes a:hover{
+	background-color: #202233;
+	transition: background-color,1s; 
+	color: #22d64c;
+	padding: 6px;
+	border-radius: 5px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+
+}
+
+.principal{
+	width: 100%;
+	height: auto;
+
+}
+
+.foto img{
+	width:255px; 
+	height:350px;
+	position: absolute;
+	top: 200px;
+	left: 250px;
+	border-radius: 15px;
+}
+
+.sobre strong{
+	font-size: 30px;
+	font-family: 'Lobster Two', cursive;
+	width: 285px;
+	height: 350px;
+	position: absolute;
+	top: 210px;
+	left: 700px;
+}
+
+.sobre p{
+	font-size: 20px;
+	font-family: 'Lobster Two', cursive;
+	width: 320px;
+	height: 350px;
+	position: absolute;
+	top: 255px;
+	left: 620px;
+}
+
+.fot img{
+	width:250px; 
+	height:350px;
+	position: absolute;
+	top: 700px;
+	left: 900px;
+	border-radius: 15px;
+}
+
+#g{
+	font-size: 30px;
+	font-family: 'Lobster Two', cursive;
+	width: 285px;
+	height: 350px;
+	position: absolute;
+	top: 710px;
+	left: 560px;
+}
+
+#pg{
+	font-size: 20px;
+	font-family: 'Lobster Two', cursive;
+	width: 320px;
+	height: 350px;
+	position: absolute;
+	top: 790px;
+	left: 510px;
+}
+
+.fotoo img{
+	width:250px; 
+	height:350px;
+	position: absolute;
+	top: 1210px;
+	left: 260px;
+	border-radius: 15px;
+}
+
+#hability{
+	font-size: 30px;
+	font-family: 'Lobster Two', cursive;
+	width: 285px;
+	height: 350px;
+	position: absolute;
+	top: 1220px;
+	left: 680px;
+}
+
+#p{
+	font-size: 20px;
+	font-family: 'Lobster Two', cursive;
+	width: 320px;
+	height: 350px;
+	position: absolute;
+	top: 1300px;
+	left: 615px;
+}
+
+#position{
+	font-size: 0px;
+	font-family: 'Lobster Two', cursive;
+	width: 320px;
+	height: 350px;
+	position: absolute;
+	top: 550px;
+	left: 640px;
+}
+
+.imgfacebook img{
+	width:70px; 
+	height:65px;
+	position: absolute;
+	top: 300px;
+	left: 1200px;
+	border-radius: 15px;
+}
+
+.imginstagram img{
+	width:70px; 
+	height:65px;
+	position: absolute;
+	top: 390px;
+	left: 1200px;
+	border-radius: 15px;
+}
+
+body{
+	background-color: #f2f4f7;
+}
+
+#fund{
+	height: 420px;
+	width: 60%;
+	color: white;
+	position: absolute;
+	top: 530px;
+	left: 200px;
+	border-radius: 7px;
+	background-color: white;
+}
+
+.fundo{
+	height: 420px;
+	width: 55%;
+	color: white;
+	position: absolute;
+	top: 1030px;
+	left: 453px;
+	border-radius: 7px;
+	background-color: white;
+}
+
+.fundd{
+	height: 420px;
+	width: 60%;
+	color: white;
+	position: absolute;
+	top: 1538px;
+	left: 200px;
+	border-radius: 7px;
+	background-color: white;
+}
